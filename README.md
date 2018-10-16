@@ -25,4 +25,4 @@ Setting it up is simple.
 Try it out!
 
 ## Video Demonstration
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tX10KlArQII&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=tX10KlArQII&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tX10KlArQII/0.jpg)](https://www.youtube.com/watch?v=tX10KlArQII&feature=youtu.be)

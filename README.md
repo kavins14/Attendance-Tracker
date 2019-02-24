@@ -1,6 +1,6 @@
 # Attendance-Tracker
 
-This Java application is an attendance tracking system that helps manage attendances in a classroom setting. This was built as a high school project for my Computer 3 class. The two main technologies used in this project are Java (developing the application) and MySQL (database)
+This Java application is an attendance tracking system that helps manage attendances in a classroom setting. This was built from scratch as a high school project for my Computer 3 class. The two main technologies used in this project are Java (developing the application) and MySQL (database)
 
 ## Features
 1. Add/Remove Courses
